@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nivetha0811/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nivetha0811/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nivetha0811/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nivetha0811/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nivetha0811/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -34,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nivetha0811/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nivetha0811/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Greedy
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nivetha0811/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Sorting
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nivetha0811/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->

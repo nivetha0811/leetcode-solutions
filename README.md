@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nivetha0811/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nivetha0811/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/nivetha0811/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nivetha0811/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nivetha0811/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Divide and Conquer
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nivetha0811/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/nivetha0811/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nivetha0811/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/nivetha0811/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1732-find-the-highest-altitude](https://github.com/nivetha0811/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nivetha0811/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nivetha0811/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nivetha0811/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/nivetha0811/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+## Math
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nivetha0811/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->

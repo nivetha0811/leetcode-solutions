@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nivetha0811/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nivetha0811/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/nivetha0811/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1563-stone-game-v](https://github.com/nivetha0811/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/nivetha0811/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nivetha0811/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nivetha0811/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/nivetha0811/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nivetha0811/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -140,5 +142,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nivetha0811/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nivetha0811/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1563-stone-game-v](https://github.com/nivetha0811/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nivetha0811/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/nivetha0811/leetcode-solutions/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nivetha0811/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nivetha0811/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/nivetha0811/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1331-rank-transform-of-an-array](https://github.com/nivetha0811/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1563-stone-game-v](https://github.com/nivetha0811/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/nivetha0811/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nivetha0811/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/nivetha0811/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/nivetha0811/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nivetha0811/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nivetha0811/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nivetha0811/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/nivetha0811/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nivetha0811/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nivetha0811/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String

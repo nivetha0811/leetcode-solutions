@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/nivetha0811/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nivetha0811/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/nivetha0811/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nivetha0811/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nivetha0811/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/nivetha0811/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nivetha0811/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nivetha0811/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Two Pointers
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/nivetha0811/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nivetha0811/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/nivetha0811/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nivetha0811/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/nivetha0811/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nivetha0811/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/nivetha0811/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Sliding Window
 |  |
 | ------- |
